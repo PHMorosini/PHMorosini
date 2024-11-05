@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">--18 anos<br>--Estudante Back-end<br>--C# Lover</p>
+<p align="left">--18 anos<br>--Estudante Back-end<br>--C# student</p>
 
 ###
 
